@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - IceThorn
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Ground
+  - Wall
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Head
+    uniqueID: 1067568375
+    locked: 0
+  - name: Body
+    uniqueID: 4216711157
+    locked: 0
+  - name: RightHand
+    uniqueID: 2538721489
+    locked: 0
+  - name: LeftHand
+    uniqueID: 3609594601
+    locked: 0
+  - name: Player
+    uniqueID: 74794491
+    locked: 0
